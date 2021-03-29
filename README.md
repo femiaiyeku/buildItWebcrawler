@@ -1,5 +1,9 @@
 # buildItWebcrawler
 
+
+#Overview
+
+
 Web crawler project written in Python
 
 The crawler should be limited to one domain. Given a starting URL – say http://wiprodigital.com - it should visit all pages within the domain, but not follow the links to external sites such as Google or Twitter.
