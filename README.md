@@ -8,7 +8,7 @@ Please make your solution available on Github and forward the link. Where possib
 What you need to share with us
 
 A working crawler as per requirements above
-A README.md explaining:
+A README.md explaining
 How to build and run your solution (including any required installations)
 Reasoning and describe any trade offs
 Explanation of what could be done with more time
