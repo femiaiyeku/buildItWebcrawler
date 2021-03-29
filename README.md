@@ -37,6 +37,7 @@ Project builds / runs / tests as per instruction
 2. Can I scrape the parts you are interested in? I checked the robots.txt file for more information and uses a tool that can handle this information.
 3. What technology does the website use? 
  from builtwith import builtwith
+ 
  builtwith('http://www.wiprodigital.com')
 
 {'tag-managers': ['Google Tag Manager'], 'marketing-automation': ['Marketo', 'Yoast SEO'], 'javascript-frameworks': ['Modernizr', 'Prototype', 'jQuery'], 'web-frameworks': ['Twitter Bootstrap'], 'cms': ['WordPress'], 'programming-languages': ['PHP'], 'blogs': ['PHP', 'WordPress']}
