@@ -22,3 +22,10 @@ Reasoning and describe any trade offs
 Explanation of what could be done with more time
 
 Project builds / runs / tests as per instruction
+
+# Reasoning and Explain any trade offs
+
+
+# TODO
+
+
