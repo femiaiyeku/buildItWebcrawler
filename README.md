@@ -30,7 +30,8 @@ Project builds / runs / tests as per instruction
 # Reasoning and Explain any trade offs
 
 
-# TODO
+# Requirement
+
 
 
 1. I check to confirm that the http://www.wiprodigital.com’s owners allow scraping by  reading the Terms & Conditions and the Privacy Policy of the website.
@@ -43,6 +44,19 @@ Project builds / runs / tests as per instruction
 
  . {'tag-managers': ['Google Tag Manager'], 'marketing-automation': ['Marketo', 'Yoast SEO'], 'javascript-frameworks': ['Modernizr', 'Prototype', 'jQuery'], 'web-frameworks': ['Twitter Bootstrap'], 'cms': ['WordPress'], 'programming-languages': ['PHP'], 'blogs': ['PHP', 'WordPress']}
 
+Install python packages
 
+pip install -r requirements.txt
+
+Test case
+
+
+Execute the crawler file
+
+
+
+
+
+# TODO
 
 
