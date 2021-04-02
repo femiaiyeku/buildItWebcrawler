@@ -1,6 +1,6 @@
 from urllib import robotparser
 
-""""Parse the robots.txt file of the target website and acts based on the contents"""
+""""Parse the robots.txt file of the target website, acts based on the contents"""
 
 robot_parser = robotparser.RobotFileParser()
 
